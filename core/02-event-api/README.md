@@ -1,1 +1,4 @@
-# TODO: README
+# to run: 
+
+npm run dev
+
