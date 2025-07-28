@@ -2,6 +2,10 @@
 
 This project displays the current weather in London using the OpenWeatherMap API.
 
+## React + Vite?
+
+React is a very popular javascript library used to build interactive UIs (user interfaces). It provides instant server start and fast module replacement. This enables great developer experience for modern web applications like this one: weather dashboards. 
+
 ## File Details
 
 - `src/app.jsx` – Main React component, displays weather info.
